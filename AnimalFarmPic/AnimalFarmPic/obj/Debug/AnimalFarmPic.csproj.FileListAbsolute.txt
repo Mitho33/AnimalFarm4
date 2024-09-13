@@ -1,0 +1,53 @@
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.exe.config
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.exe
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.pdb
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.AssemblyReference.cache
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\MainWindow.g.cs
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\App.g.cs
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_MarkupCompile.cache
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_MarkupCompile.lref
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\App.baml
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\MainWindow.baml
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.g.resources
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.Properties.Resources.resources
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.GenerateResource.cache
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.CoreCompileInputs.cache
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.exe
+C:\Users\Lehrer\source\repos\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.pdb
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.exe.config
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.exe
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.pdb
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.AssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_Content.g.cs
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\App.baml
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.g.resources
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.exe
+C:\Users\Michael Thomas\Desktop\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.pdb
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.exe.config
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.exe
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\bin\Debug\AnimalFarmPic.pdb
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.AssemblyReference.cache
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\MainWindow.g.cs
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\App.g.cs
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_Content.g.cs
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_MarkupCompile.cache
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic_MarkupCompile.lref
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\App.baml
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\MainWindow.baml
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.g.resources
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.Properties.Resources.resources
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.GenerateResource.cache
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.csproj.CoreCompileInputs.cache
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.exe
+E:\2024_1\AnimalFarmPic\AnimalFarmPic\obj\Debug\AnimalFarmPic.pdb
